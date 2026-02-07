@@ -1,0 +1,9 @@
+*.cache/
+*.hw/
+*.sim/
+*.ip_user_files/
+.xil/
+*.log
+*.jou
+.DS_Store
+Thumbs.db
